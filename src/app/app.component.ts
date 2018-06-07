@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AppComponent implements OnInit{
   title = 'Team List';
-
+test:number = 0;
   ngOnInit(){
     
   }
